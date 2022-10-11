@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Pedro!
 
-<img width="100%" src="https://i.ibb.co/FqsQSQJ/github-header-image-1.png" alt="my banner">
+<img width="660px" heigth="200" src="https://raw.githubusercontent.com/gist/PedroSantiagoDev/0f1df5825f22c59b0980e2d805e7ccd9/raw/e501573d827b89f7ae2c55b827d06d720f428516/githubcard.svg" alt="my banner">
 
 My name is Pedro, I'm 19 years old.
 I'm a front-end programmer, passionate about technology. I'm studying ADS when I'm not studying, I put my knowledge into practice.
