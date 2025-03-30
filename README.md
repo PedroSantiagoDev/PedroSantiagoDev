@@ -1,24 +1,30 @@
-### Olá, eu sou João Pedro! 👋
+# 👋 Olá, visitante!
 
-## Sou Desenvolvedor Back-End 🚀
+😉 Seja bem-vindo ao meu perfil! Vou compartilhar um pouco sobre mim. 
 
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **PHP**, **Laravel** e **Lumen**.
-- 🧑‍💻 Trabalho na área de desenvolvimento de software.
-- 🥅 Objetivos 2024: Continuar evoluindo como desenvolvedor, criando projetos relevantes e compartilhando meu conhecimento.
+## 🌟 Sobre Mim
 
-### Conecte-se comigo:
+Meu nome é **João Pedro Santiago** (também conhecido como **PedroSantiagoDev**). Sou um desenvolvedor apaixonado por tecnologia e atualmente moro no Brasil. Meu principal objetivo é evoluir constantemente na programação e contribuir para a comunidade de tecnologia. 🚀
 
-<div>
-  <a href="https://github.com/PedroSantiagoDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaopedrosantiago1103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-santiago-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+No meu tempo livre, gosto de participar de comunidades de programação, assistir a vídeos e explorar novas tecnologias para aprimorar minhas habilidades. Desde **2023**, venho me envolvendo em projetos desafiadores que ampliam minha experiência e conhecimento. 🤝
+
+## 📝 Informações Detalhadas
+
+- 👤 **Nome:** João Pedro Santiago  
+- 🎂 **Idade:** 22 anos  
+- 📍 **Localização:** Brasil  
+- 💻 **Stack:** PHP, Laravel, JavaScript, Node.js, SQL Server  
+- 📚 **Aprendizado Atual:** PHP, Laravel, Node.js, Inglês  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
+- 🏆 **Conquistas:** Freelancer desde 2023, experiência com sistemas hospitalares, automação de tarefas e desenvolvimento full-stack  
+
+## 😎 Curiosidades
+
+- ⚽ Sou fã de esportes e gosto de praticar atividades físicas para manter a mente e o corpo saudáveis.  
+- 💡 Minha jornada na programação começou em **2023**, e desde então, busco sempre novos desafios para expandir meu conhecimento.  
+- 🤝 Acredito no poder da colaboração e estou sempre disposto a compartilhar conhecimento e ajudar outros desenvolvedores.  
+- 🌐 Já trabalhei em diversos projetos aplicações web robustas adquirindo uma visão abrangente do desenvolvimento de software.  
 
 ---
 
-<div align="center">
-<img width="450em" alt="Status do GitHub de João Pedro" src="https://github-readme-stats.vercel.app/api?username=PedroSantiagoDev&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantiagoDev&layout=compact&theme=dracula"/>
-</div>
 
----
