@@ -13,7 +13,7 @@ No meu tempo livre, gosto de participar de comunidades de programação, assisti
 - 👤 **Nome:** João Pedro Santiago  
 - 🎂 **Idade:** 22 anos  
 - 📍 **Localização:** Brasil  
-- 💻 **Stack:** Node.Js, React.Js, React Native, JavaScript, PHP, Laravel, SQL 
+- 💻 **Stack:** Java, Spring Boot, React.Js, JavaScript|TypeScript, PHP, Laravel, SQL 
 - 📚 **Aprendizado Atual:** Inglês  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
 - 🏆 **Conquistas:** Freelancer desde 2023, experiência com sistemas hospitalares, automação de tarefas e desenvolvimento full-stack  
