@@ -38,34 +38,6 @@ automação de processos e manutenção de sistemas legados.
 
 ---
 
-## Projetos em Destaque
-
-### varejo-max
-Sistema de gestao para varejo desenvolvido em PHP/Laravel com testes automatizados.
-[Ver repositorio](https://github.com/PedroSantiagoDev/varejo-max)
-
-### pontua
-Aplicacao PHP com cobertura de testes, focada em pontuacao e regras de negocio.
-[Ver repositorio](https://github.com/PedroSantiagoDev/pontua)
-
-### intranet
-Sistema de intranet corporativa em PHP/Laravel com README detalhado e testes.
-[Ver repositorio](https://github.com/PedroSantiagoDev/intranet)
-
-### quantum-SKU
-Ferramenta Python para gerenciamento e automacao de SKUs.
-[Ver repositorio](https://github.com/PedroSantiagoDev/quantum-SKU)
-
-### jphp
-Projeto TypeScript integrando conceitos de backend PHP com frontend moderno.
-[Ver repositorio](https://github.com/PedroSantiagoDev/jphp)
-
-### dattebayo
-API REST para cadastro de ninjas desenvolvida com Java e Spring Boot.
-[Ver repositorio](https://github.com/PedroSantiagoDev/dattebayo)
-
----
-
 ## Principais Conquistas
 
 - Implementei stack de observabilidade (Grafana + Prometheus) em producao na AGED-MA
